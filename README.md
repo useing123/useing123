@@ -5,16 +5,17 @@ I'm a passionate developer interested in AI and web technologies.
 ## Technologies
 
 - JavaScript
-- Python
 - Vue.js
+- Python
 - FastAPI
 - NLP
+- Diffusion models
 
 ## Projects
 
 ### [Taipa.kz Hackathon Project](https://github.com/useing123/prod)
 
-A web app about Kazakh Taipas.
+A web app about Kazakh Taipas. In colaboration with mintjulep21
 
 ### [Ranobe text generation with OpenAI](https://github.com/useing123/mangageneration)
 
@@ -25,10 +26,4 @@ AI project for generating ranobe texts.
 - [Taipa.kz](https://github.com/useing123/prod): Added routes and parsed data about Kazakh juzes.
 - [Ranobe text generation with OpenAI](https://github.com/useing123/mangageneration): Backend core contributor.
 
-<!-- 
-# H   H  EEEEE  L      L      OOO
-# H   H  E      L      L     O   O
-# HHHHH  EEEE   L      L     O   O
-# H   H  E      L      L     O   O
-# H   H  EEEEE  LLLLL  LLLLL  OOO
- -->
+<!-- Атырау 06 регион Қазақстан -->
