@@ -26,4 +26,4 @@ AI project for generating ranobe texts.
 - [Taipa.kz](https://github.com/useing123/prod): Added routes and parsed data about Kazakh juzes.
 - [Ranobe text generation with OpenAI](https://github.com/useing123/mangageneration): Backend core contributor.
 
-<!-- Атырау 06 регион Қазақстан -->
+<!-- Кызылорда 11 регион Қазақстан -->
