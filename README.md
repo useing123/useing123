@@ -50,6 +50,19 @@ Description: An exciting AI project developed for the Nfactorial AI bootcamp, Fa
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=useing123&theme=react-dark)
 
+## GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=useing123)
+
+<!-- ## Recent Activity
+
+- [Repository A](https://github.com/ownerA/repoA): Fixed a bug related to XYZ.
+- [Repository B](https://github.com/ownerB/repoB): Created a new feature for better user experience.
+- [Repository C](https://github.com/ownerC/repoC): Contributed documentation updates. -->
+
 ## Let's Connect
 
 Feel free to reach out if you want to collaborate on exciting projects or discuss anything tech-related! 😄🚀
+
+Contact me: useing322@gmail.com
+
