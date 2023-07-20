@@ -38,13 +38,13 @@ Description: An exciting AI project developed for the Nfactorial AI bootcamp, Fa
 - [Twitter](https://twitter.com/useing123)
 - [Leetcode](https://leetcode.com/useing322/)
 
-## GitHub Stats
+<!-- ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=useing123&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ## Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=useing123&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=useing123&layout=compact&theme=radical) -->
 
 ## Contribution Graph
 
