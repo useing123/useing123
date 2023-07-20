@@ -1,57 +1,55 @@
-Hello, I'm [Your Name]! 👋
-About Me
+# Hello, I'm Ossein! 👋
 
-Briefly introduce yourself, your background, and what you're passionate about in the world of technology.
-Technologies & Tools
+## About Me
 
-List the programming languages, frameworks, tools, and technologies you're proficient in.
-Projects
+I'm a passionate developer with a strong interest in AI and web technologies. I love exploring new ideas and working on projects that make a positive impact.
 
-Showcase some of your most impressive or favorite projects. Provide descriptions and links to their repositories or live demos.
+## Technologies & Tools
 
-    Project 1: Description of Project 1.
-    Project 2: Description of Project 2.
+- JavaScript
+- Python
+- Vue.js
+- Nuxt.js
+- FastAPI
+- HTML/CSS
+- Git
+- Langchain
+- Diffusion Models
+- NLP
 
-Open Source Contributions
+## Projects
 
-If you have contributed to open-source projects, mention them here. Include links to the repositories and a brief description of your contributions.
-Blog & Articles
+### [Taipa.kz Hackathon Project](https://github.com/useing123/prod)
 
-If you have a technical blog or have written articles, provide links to them. This is a great way to share your knowledge and expertise.
+Description: A project developed during the Nfactorial hackhathon. On this hackhacthon we created web app about Kazakh Taipas.
 
-    Blog Post 1: Brief description of Blog Post 1.
-    Blog Post 2: Brief description of Blog Post 2.
+### [Ranobe text generation with OpenAI](https://github.com/useing123/mangageneration)
 
-Find Me On
+Description: An exciting AI project developed for the Nfactorial AI bootcamp, FastAPI backend that can generate ranobe texts.
 
-Include links to your social media profiles, personal website, or any other platform where you're active.
+## Open Source Contributions
 
-    LinkedIn
-    Twitter
-    Personal Website/Blog
-    ...
+- [Taipa.kz](https://github.com/useing123/prod): Added routes to the projects, parsed data about Kazakh juzes.
+- [Ranobe text generation with OpenAI](https://github.com/useing123/mangageneration): Mangageneration backend core contributor.
 
-GitHub Stats
+## Find Me On
 
-You can add GitHub stats to showcase your contributions, followers, and stars.
+- [LinkedIn](https://www.linkedin.com/in/gizatullayev/)
+- [Twitter](https://twitter.com/useing123)
+- [Leetcode](https://leetcode.com/useing322/)
 
+## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=useing123&show_icons=true&count_private=true&hide=prs&theme=radical)
 
-Most Used Languages
+## Most Used Languages
 
-Show the languages you use the most in your repositories.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=useing123&layout=compact&theme=radical)
 
+## Contribution Graph
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=useing123&theme=react-dark)
 
-Contribution Graph
+## Let's Connect
 
-Add a contribution graph that visualizes your GitHub activity.
-
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=react-dark)
-
-Let's Connect
-
-End your README with a friendly call-to-action to encourage others to connect with you or collaborate on projects.
+Feel free to reach out if you want to collaborate on exciting projects or discuss anything tech-related! 😄🚀
