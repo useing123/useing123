@@ -12,11 +12,6 @@ I'm a passionate developer interested in AI and web technologies.
 - Diffusion models
 
 ## Projects
-
-### [Taipa.kz Hackathon Project](https://github.com/useing123/prod)
-
-A web app about Kazakh Taipas. In colaboration with mintjulep21
-
 ### [Ranobe text generation with OpenAI](https://github.com/useing123/mangageneration)
 
 AI project for generating ranobe texts.
