@@ -5,11 +5,10 @@ I'm a passionate developer interested in AI and web technologies.
 ## Technologies
 
 - JavaScript
-- Vue.js
-- Python
+- NextJS(13)
+- Nuxt(2,3)
 - FastAPI
 - NLP
-- Diffusion models
 
 ## Projects
 ### [Ranobe text generation with OpenAI](https://github.com/useing123/mangageneration)
