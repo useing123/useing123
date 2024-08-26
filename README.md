@@ -6,6 +6,7 @@
 - NextJS(SSR + Server components)
 - NuxtJS(SPA)
 - Algoritms and Data Structures
+- Python(FastApi) or Ruby on rails
 
 ## About me:
 
