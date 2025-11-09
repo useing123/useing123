@@ -1,2 +1,1 @@
-### Serial grind master, inventor of vibecoding, contrarian
-x.com/useing2
+write me on useing322@gmail.com
