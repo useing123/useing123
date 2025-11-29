@@ -1,1 +1,1 @@
-write me on useing322@gmail[dot]com
+Write to me at useing322@gmail[dot]com
